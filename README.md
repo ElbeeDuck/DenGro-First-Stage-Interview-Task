@@ -1,4 +1,4 @@
-# Interview Task for Software QA Engineer
+# Interview Task for Software QA Engineer Role
 
 ## Overview
 This repository contains automated tests written in Playwright for an interview task for the DenGro website.
